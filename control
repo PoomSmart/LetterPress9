@@ -1,0 +1,9 @@
+Package: org.thebigboss.letterpress9
+Name: LetterPress9
+Depends: mobilesubstrate, firmware (>= 9.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable Notes Letter press feature.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
